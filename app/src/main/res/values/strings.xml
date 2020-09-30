@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarMaintenance</string>
+    <string name="todo">TODO</string>
+    <string name="brakeSpec">TODO</string>
+    <string name="oilSpec">TODO</string>
+    <string name="torqueSpec">TODO</string>
+    <string name="LugNut">TODO</string>
+    <string name="OilSpec">TODO</string>
+    <string name="BrakeSpec">TODO</string>
+</resources>
